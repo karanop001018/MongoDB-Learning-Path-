@@ -41,7 +41,7 @@ This repository is open-sourced under the MIT license. Feel free to explore and 
 
 Let's talk about databases, programming, and technology! Reach out to me on <br>
 LinkedIn: https://www.linkedin.com/in/karan-patel-16700a215/ <br>
-Twitter: twitter.com/KaranPatel1404
+Twitter: https://twitter.com/KaranPatel1404
 
 *******************************************************************************************************************
 Happy coding and learning! 💻🌱
